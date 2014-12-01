@@ -7,8 +7,7 @@
 Open [nitrous.io](http://nitrous.io) and paste the following link into your terminal:
 
 ```
-cd workspace/www; git clone https://github.com/ScriptEdClaremontHS/lesson17.git;
+cd workspace/www; git clone https://github.com/ScriptEdClaremontHS/lesson18.git;
 ```
 
 Don't forget to hit enter after!
-
